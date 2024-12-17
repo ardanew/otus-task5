@@ -1,0 +1,7 @@
+<map id="Model" name="Model">
+<area shape="rect" id="Node000001" title="Model class." alt="" coords="27,155,191,343"/>
+<area shape="rect" id="Node000002" href="$struct_i_view.html" title="View interface." alt="" coords="5,5,77,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,91,74,138,69,140,53,93"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,16,253,82"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,83,149,140,144,138,164,81"/>
+</map>

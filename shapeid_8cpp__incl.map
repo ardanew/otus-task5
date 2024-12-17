@@ -1,0 +1,10 @@
+<map id="src/shapeid.cpp" name="src/shapeid.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,5,137,31"/>
+<area shape="rect" id="Node000002" href="$shapeid_8h.html" title=" " alt="" coords="5,79,82,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,32,59,66,54,64,72,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="87,153,152,178"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="87,31,115,137,110,138,81,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="10,153,64,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,105,42,137,37,137,40,105"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="58,103,98,140,94,144,55,107"/>
+</map>

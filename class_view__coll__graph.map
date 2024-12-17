@@ -1,0 +1,14 @@
+<map id="View" name="View">
+<area shape="rect" id="Node000001" title="Implements view interface." alt="" coords="109,658,214,765"/>
+<area shape="rect" id="Node000002" href="$struct_i_view.html" title="View interface." alt="" coords="5,5,77,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,107,26,202,23,326,27,393,35,461,49,529,69,594,87,628,111,659,107,662,83,631,64,596,44,530,30,462,21,393,18,326,21,202,30,106"/>
+<area shape="rect" id="Node000004" href="$class_model.html" title="Model class." alt="" coords="79,155,243,343"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="69,91,99,139,94,142,65,93"/>
+<area shape="rect" id="Node000003" href="$class_controller.html" title="Controller class." alt="" coords="79,406,243,595"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,594,164,641,159,641,159,594"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,343,164,389,159,389,159,343"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="102,16,253,82"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="177,82,173,138,168,138,172,82"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="267,467,416,534"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="324,535,291,583,250,635,228,658,224,654,246,632,287,580,320,532"/>
+</map>

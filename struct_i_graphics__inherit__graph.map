@@ -1,0 +1,5 @@
+<map id="IGraphics" name="IGraphics">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,100,92"/>
+<area shape="rect" id="Node000002" href="$class_cout_graphics.html" title="Screen cout output." alt="" coords="8,140,98,206"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,107,56,140,50,140,50,107"/>
+</map>
